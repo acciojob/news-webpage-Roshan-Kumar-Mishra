@@ -11,6 +11,7 @@
 	color: white;
 	height: 50px;
 	border-radius: 5px;
+	padding: 5px 5px 15px 5px;
 }
 }
 .main{
@@ -22,5 +23,9 @@
 	border-radius: 5px;
 }
 .pictorial-news-section{
-	border-radius: 5px;
+	border-radius:5px;
+	background-color:lightcyan;
+	padding: 5px 5px 5px 5px;
+	width: 500px;
+	text-align: center;
 }
