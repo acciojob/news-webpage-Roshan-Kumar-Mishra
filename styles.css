@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+.full{
+	background-color:#f5f5f5;
+}
+.top{
+	display: flex;
+}
+.header{
+	text-align: center;
+	background-color:#011e29;
+	color: white;
+	height: 50px;
+	border-radius: 5px;
+}
+}
+.main{
+	width:500px;
+	border-radius: 5px;
+}
+.latest-news-section{
+	width: 500px;
+	border-radius: 5px;
+}
+.pictorial-news-section{
+	border-radius: 5px;
+}
